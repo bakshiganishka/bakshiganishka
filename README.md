@@ -1,3 +1,25 @@
+Number row characters
+- !
+- @
+- \#
+- $
+- %
+- ^
+- &
+- \*
+- (
+- )
+
+- [Wikipedia](https://www.wikipedia.org)
+- [Google](google.com)
+- [Stack Overflow](stackoverflow.com)
+
+Experiments
+
+ 🌻 💮 🌷🌺
+
+ 
+  
 - 👋 Hi, I’m @bakshiganishka
 - 👀 I’m interested in contributing to projects.
 - 🌱 I’m currently learning how to code. 
