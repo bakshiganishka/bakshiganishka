@@ -39,6 +39,8 @@ Shortcuts I would like to start using:
 - Command-A: Select All items.
 - Command-K: Add a web link.
 
+[CLI commands](docs/cli.md)
+
 <!---
 bakshiganishka/bakshiganishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
